@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a8b2f2b.css",
-    "main.js": "/static/js/main.baafe9cc.js",
-    "index.html": "/index.html",
-    "main.5a8b2f2b.css.map": "/static/css/main.5a8b2f2b.css.map",
-    "main.baafe9cc.js.map": "/static/js/main.baafe9cc.js.map"
+    "main.css": "/my-create-react/static/css/main.5a8b2f2b.css",
+    "main.js": "/my-create-react/static/js/main.baafe9cc.js",
+    "index.html": "/my-create-react/index.html",
+    "main.5a8b2f2b.css.map": "/my-create-react/static/css/main.5a8b2f2b.css.map",
+    "main.baafe9cc.js.map": "/my-create-react/static/js/main.baafe9cc.js.map"
   },
   "entrypoints": [
     "static/css/main.5a8b2f2b.css",
