@@ -7,8 +7,8 @@ const App =()=>{
         // <h1>react start</h1>
         <div className="card-wrap">
         <Card file='D-2' img='dl1'/>
-        <Card file='D-1'img='dl2'/>
-        <Card file='TODAY' img='pl2'/>
+        {/* <Card file='D-1'img='dl2'/> */}
+        {/* <Card file='TODAY' img='pl2'/> */}
         </div>
     );
 }
