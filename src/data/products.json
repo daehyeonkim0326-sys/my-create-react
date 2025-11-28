@@ -1,0 +1,8 @@
+{
+    "products":[
+        {"id":1, "title":"마우스","price":15000,"img":"dl1"},
+        {"id":2, "title":"키보드","price":20000,"img":"dl2"},
+        {"id":3, "title":"헤드셋","price":40000,"img":"pl2"},
+        {"id":4, "title":"모니터","price":5000,"img":"dl"}
+    ]
+}
